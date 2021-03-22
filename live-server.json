@@ -1,0 +1,7 @@
+{"port": 8181, 
+    "host": "0.0.0.0", 
+    "open": false, 
+    "root":"/Users/abc/Projects/angular2-quickstart",
+    "ignore": "",
+    "file": "index.html",
+    "wait": 1000 }
